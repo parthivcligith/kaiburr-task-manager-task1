@@ -24,8 +24,9 @@ A Spring Boot application that allows creating, updating, deleting, and executin
 
 ## Screenshots
 
-![Task List](screenshots/Screenshot 2025-10-15 124520.png)
-![Task Details](screenshots/Screenshot 2025-10-15 125143.png)
-![Add Task](screenshots/Screenshot 2025-10-15 125219.png)
-![Run Task](screenshots/Screenshot 2025-10-15 125245.png)
-![Execution Result](screenshots/Screenshot 2025-10-15 125647.png)
+![Task List](screenshots/Screenshot_2025-10-15_124520.png)
+![Task Details](screenshots/Screenshot_2025-10-15_125143.png)
+![Add Task](screenshots/Screenshot_2025-10-15_125219.png)
+![Run Task](screenshots/Screenshot_2025-10-15_125245.png)
+![Execution Result](screenshots/Screenshot_2025-10-15_125647.png)
+
