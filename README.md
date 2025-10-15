@@ -16,10 +16,7 @@ A Spring Boot application that allows creating, updating, deleting, and executin
 - MongoDB Atlas
 - Maven
 
-## Setup Instructions
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/USERNAME/REPO_NAME.git
+
 
 
 ## Screenshots
